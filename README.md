@@ -4,11 +4,11 @@
 
 ## Contents
 
-- [What is TuffyHacks?](#what-is-tuffyhacks): Explanation behind the TuffyHacks event.
-- [Service](#service): How I contributed during the event.
-- [Software](#software): Details on the software that I created for this event.
-- [Preparation](#preparation): How TuffyHacks was prepared and how I helped.
-- [Press](#press): Any published articles pertaining to TuffyHacks 2021.
+- [**What is TuffyHacks?**](#what-is-tuffyhacks): Explanation behind the TuffyHacks event.
+- [**Service**](#service): How I contributed during the event.
+- [**Software**](#software): Details on the software that I created for this event.
+- [**Preparation**](#preparation): How TuffyHacks was prepared and how I helped.
+- [**Press**](#press): Any published articles pertaining to TuffyHacks 2021.
 
 ## tl;dr
 
