@@ -2,6 +2,18 @@
 
 > This is the detailed account of my experience as the Head of Technology of TuffyHacks.
 
+## Contents
+
+- [**What is TuffyHacks?**](#what-is-tuffyhacks): Explanation behind the TuffyHacks event.
+- [**Service**](#service): How I contributed during the event.
+- [**Software**](#software): Details on the software that I created for this event.
+- [**Preparation**](#preparation): How TuffyHacks was prepared and how I helped.
+- [**Press**](#press): Published articles pertaining to TuffyHacks 2021.
+
+## tl;dr
+
+I served as the Head of Technology for CSUF's first ever hackathon, TuffyHacks.
+
 ## What is TuffyHacks?
 
 TuffyHacks is a weekend-long event where students come together to learn the latest technologies and build innovative projects.
