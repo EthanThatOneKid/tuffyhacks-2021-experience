@@ -39,8 +39,8 @@ This page included the following sections:
 - A section that displays the official sponsors/partners. Before the sponsors were finalized, prospecting sponsors used this section apply to sponsor or get into contact with the TuffyHacks team.
 - An obligatory FAQ section at the bottom.
 
-Additionally, I created a "Meet the Team" ([`tuffyhacks.com/meet-the-team`](https://tuffyhacks.com/meet-the-team/)) page where the members of the TuffyHacks team are displayed together.
-I also designed/created another splash screen specifically for the event's live stream.
+Additionally, I created a "Meet the Team" page ([`tuffyhacks.com/meet-the-team`](https://tuffyhacks.com/meet-the-team/)) where the members of the TuffyHacks team are displayed together.
+I also designed/created another splash screen ([`tuffyhacks.com/event`](https://tuffyhacks.com/event/)) specifically for the event's live stream.
 
 <!-- ![TuffyHacks event splash screen.](photography/event-splash-screen.png)
 
