@@ -84,7 +84,7 @@ As for major libraries, I used [Discord.js](https://github.com/discordjs/discord
 
 We spent about 4 months preparing and planning TuffyHacks in order to make this event as great as we possibly could.
 
-- The [TuffyHacks Team](https://tuffyhacks.com/meet-the-team/) would for at least 1 hour per week for the 4 months leading up to the event.
+- The [TuffyHacks Team](https://tuffyhacks.com/meet-the-team/) would meet for at least 1 hour per week for the 4 months leading up to the event.
 - I worked on [`tuffyhacks.com`](#tuffyhacks.com) and the [`tuffyhacks-bot`](#tuffyhacks-bot) in my free time.
 - Recorded a video ad for one of the sponsors, [**@digitalocean**](https://github.com/digitalocean).
 
@@ -98,6 +98,14 @@ News Article: <https://dailytitan.com/eedition/page-7/page_2037179b-4853-5606-97
 
 Accompanying Social Media Post: <https://www.instagram.com/p/CM5JU0dpqXg/>
 
+### DevPost
+
+During the event, participants submitted their projects via an online platform called [_DevPost_](https://devpost.com/).
+Once the project deadline was reached, event organizers and judges selected the winning projects in multiple categories.
+The winners are listed under the [project gallery](https://tuffyhacks-2021.devpost.com/project-gallery).
+
+TuffyHacks Event on DevPost: <https://tuffyhacks-2021.devpost.com/>
+
 ---
 
-[EthanThatOneKid](https://github.com/EthanThatOneKid/)
+An [EthanThatOneKid](https://github.com/EthanThatOneKid/) experience ✨
