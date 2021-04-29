@@ -10,7 +10,7 @@
 - [**Preparation**](#preparation): How TuffyHacks was prepared and how I helped.
 - [**Press**](#press): Published articles pertaining to TuffyHacks 2021.
 
-## tl;dr
+## TL;DR
 
 I served as the Head of Technology for CSUF's first ever hackathon, TuffyHacks.
 
@@ -54,7 +54,9 @@ This page included the following sections:
 Additionally, I created a "Meet the Team" page ([`tuffyhacks.com/meet-the-team`](https://tuffyhacks.com/meet-the-team/)) where the members of the TuffyHacks team are displayed together.
 I also designed/created another splash screen ([`tuffyhacks.com/event`](https://tuffyhacks.com/event/)) specifically for the event's live stream.
 
-<!-- ![TuffyHacks event splash screen.](photography/event-splash-screen.png)
+Here is what the `/event` page looked like as the event was approaching for the months leading up to the event:
+
+![TuffyHacks event splash screen.](photography/event-splash-screen.png)
 
 Here is what the live stream looked like before the event started:
 
@@ -62,14 +64,18 @@ Here is what the live stream looked like before the event started:
 
 ...And here is what the same page looked like during the event:
 
-![TuffyHacks event during live stream.](photography/event-during-livestream.png) -->
+![TuffyHacks event during live stream.](photography/event-during-livestream.png)
 
 ### `tuffyhacks-bot`
 
-> Code (Private): <https://github.com/EthanThatOneKid/tuffyhacks-bot/>
+> Code: <https://github.com/EthanThatOneKid/tuffyhacks-bot/>
 
 The official TuffyHacks bot was created by myself and managed the check-in process for the participants.
 During the event, this Discord bot ran on a Digital Ocean droplet and went smoothly.
+
+Here is what the check-in channel looked like on Discord:
+
+![Check-in channel on TuffyHacks Discord Server.](photography/checkin-channel.png)
 
 This bot is written in JavaScript and ran using [Node.js](https://nodejs.org/).
 As for major libraries, I used [Discord.js](https://github.com/discordjs/discord.js/) for interacting with Discord messages, [Express](https://github.com/expressjs/express) for an admin-only API for monitoring participant check-ins, and [NeDB](https://github.com/louischatriot/nedb) for persistent storage in case the server crashes.
@@ -91,3 +97,7 @@ Within the week approaching the event, a reporter from the Daily Titan interview
 News Article: <https://dailytitan.com/eedition/page-7/page_2037179b-4853-5606-9739-c0e35f5109fa.html>
 
 Accompanying Social Media Post: <https://www.instagram.com/p/CM5JU0dpqXg/>
+
+---
+
+[EthanThatOneKid](https://github.com/EthanThatOneKid/)
