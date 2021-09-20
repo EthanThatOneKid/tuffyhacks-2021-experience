@@ -39,9 +39,10 @@ As Head of Technology, I authored software that was critical to the success of t
 
 ### `tuffyhacks.com`
 
-> Demo: <https://tuffyhacks.com/>, Code: <https://github.com/EthanThatOneKid/tuffyhacks.com/>
+[![Demo](https://img.shields.io/badge/Demo-tuffyhacks--site-black?logo=vercel)](https://tuffyhacks-site.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-EthanThatOneKid%2Ftuffyhacks.com-black?logo=github)](https://github.com/EthanThatOneKid/tuffyhacks.com/)
 
-This is the source code of TuffyHacks' official website, [`tuffyhacks.com`](https://tuffyhacks.com); built on [Next.js](https://github.com/vercel/next.js).
+This is the source code of TuffyHacks' official website, [`tuffyhacks.com`](https://tuffyhacks-site.vercel.app/); built on [Next.js](https://github.com/vercel/next.js).
 
 Using the marketing team's designs, I created the landing page where participants could apply or learn more information about TuffyHacks.
 This page included the following sections:
@@ -51,8 +52,8 @@ This page included the following sections:
 - A section that displays the official sponsors/partners. Before the sponsors were finalized, prospecting sponsors used this section apply to sponsor or get into contact with the TuffyHacks team.
 - An obligatory FAQ section at the bottom.
 
-Additionally, I created a "Meet the Team" page ([`tuffyhacks.com/meet-the-team`](https://tuffyhacks.com/meet-the-team/)) where the members of the TuffyHacks team are displayed together.
-I also designed/created another splash screen ([`tuffyhacks.com/event`](https://tuffyhacks.com/event/)) specifically for the event's live stream.
+Additionally, I created a "Meet the Team" page ([`tuffyhacks.com/meet-the-team`](https://tuffyhacks-site.vercel.app/meet-the-team/)) where the members of the TuffyHacks team are displayed together.
+I also designed/created another splash screen ([`tuffyhacks.com/event`](https://tuffyhacks-site.vercel.app/event/)) specifically for the event's live stream.
 
 Here is what the `/event` page looked like as the event was approaching for the months leading up to the event:
 
@@ -68,7 +69,7 @@ Here is what the live stream looked like before the event started:
 
 ### `tuffyhacks-bot`
 
-> Code: <https://github.com/EthanThatOneKid/tuffyhacks-bot/>
+[![Code](https://img.shields.io/badge/Code-EthanThatOneKid%2Ftuffyhacks--bot-black?logo=github)](https://github.com/EthanThatOneKid/tuffyhacks-bot/)
 
 The official TuffyHacks bot was created by myself and managed the check-in process for the participants.
 During the event, this Discord bot ran on a Digital Ocean droplet and went smoothly.
@@ -84,7 +85,7 @@ As for major libraries, I used [Discord.js](https://github.com/discordjs/discord
 
 We spent about 4 months preparing and planning TuffyHacks in order to make this event as great as we possibly could.
 
-- The [TuffyHacks Team](https://tuffyhacks.com/meet-the-team/) would meet for at least 1 hour per week for the 4 months leading up to the event.
+- The [TuffyHacks Team](https://tuffyhacks-site.vercel.app/meet-the-team/) would meet for at least 1 hour per week for the 4 months leading up to the event.
 - I worked on [`tuffyhacks.com`](#tuffyhacks.com) and the [`tuffyhacks-bot`](#tuffyhacks-bot) in my free time.
 - Recorded a video ad for one of the sponsors, [**@digitalocean**](https://github.com/digitalocean).
 
@@ -108,4 +109,6 @@ TuffyHacks Event on DevPost: <https://tuffyhacks-2021.devpost.com/>
 
 ---
 
-An [EthanThatOneKid](https://github.com/EthanThatOneKid/) experience ✨
+An [**@EthanThatOneKid**][me] experience ✨
+
+[me]: <https://github.com/EthanThatOneKid/>
