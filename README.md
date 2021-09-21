@@ -84,6 +84,7 @@ As for major libraries, I used [Discord.js](https://github.com/discordjs/discord
 ## Preparation
 
 We spent about 4 months preparing and planning TuffyHacks in order to make this event as great as we possibly could.
+Below is a list of specific ways I contributed to the event's preparation.
 
 - The [TuffyHacks Team](https://tuffyhacks-site.vercel.app/meet-the-team/) would meet for at least 1 hour per week for the 4 months leading up to the event.
 - I worked on [`tuffyhacks.com`](#tuffyhacks.com) and the [`tuffyhacks-bot`](#tuffyhacks-bot) in my free time.
